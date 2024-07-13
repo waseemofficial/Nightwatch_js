@@ -1,0 +1,16 @@
+{
+  "name": "nightwatch-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "geckodriver": "^4.0.4",
+    "nightwatch": "^3.0.1"
+  }
+}
