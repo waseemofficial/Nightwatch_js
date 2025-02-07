@@ -168,16 +168,6 @@ I welcome contributions from the community! If you'd like to contribute:
 
 ---
 
-## 📫 Let's Connect!
-
-If you have any questions, suggestions, or just want to chat about test automation, feel free to reach out:
-
-- **Email**: [waseemofficial@example.com](mailto:waseemofficial@example.com?subject=Nightwatch.js%20Inquiry)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/waseemofficial)
-- **Twitter**: [Follow me](https://twitter.com/waseemofficial)
-
----
-
 ## 📜 License
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
